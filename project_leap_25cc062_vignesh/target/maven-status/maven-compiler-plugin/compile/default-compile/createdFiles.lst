@@ -1,0 +1,6 @@
+com\example\project_leap_25cc062_vignesh\ProjectLeap25cc062VigneshApplication.class
+com\example\project_leap_25cc062_vignesh\services\WebServices.class
+com\example\project_leap_25cc062_vignesh\controller\WebController.class
+com\example\project_leap_25cc062_vignesh\services\impl\WebServiceImpl.class
+com\example\project_leap_25cc062_vignesh\model\Student.class
+com\example\project_leap_25cc062_vignesh\repository\WebRepository.class
